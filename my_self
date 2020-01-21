@@ -1,0 +1,19 @@
+<html>
+<head><title> My Self </title>
+<h1 style= "text-align:center;color:blue">Rashed Hossen</h1></br></head>
+<body>
+<img src="R.jpg"style="width:100%;"/>
+<div style="padding:30px;background-color:green;color:lightgreen;">I am a simple boy.
+I am from Rajapur under the district of
+ naogaon.I have completed my primary 
+ education from <i><strong>Agradigun
+  kindergarten</strong></i> with secure<u>
+   GPA 5</u>.Then I have completed my 
+   secondary education from <i><strong>Sapahar P
+   ilot high school.</i></strong> There I 
+   got <u>GPA 5 </u>both JSC &  SSC examination. Now
+   , I am studying  at<i><strong> Shahid A H M Kamaruzzaman Govt Degree College 
+   </i></strong>for compliting higher secondary  education.</br> 
+   <a href="my cv.html">My Cv</a>
+</body>
+</html>
